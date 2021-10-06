@@ -1,0 +1,140 @@
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfLogin.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfLogin.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\List.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\List.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\PlayStation5_Demo.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\PlayStation5_Demo.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\bin\Debug\PS5.mp4
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\NotePad.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\NotePad.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-2\WpfApp1\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\bin\Debug\PS5.mp4
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\List.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\NotePad.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\PlayStation5_Demo.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfLogin.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\List.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\NotePad.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\PlayStation5_Demo.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfLogin.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\bin\Debug\PS5.mp4
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\List.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\NotePad.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\PlayStation5_Demo.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfLogin.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\List.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\NotePad.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\PlayStation5_Demo.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfLogin.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\bin\Debug\PS5.mp4
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\List.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\NotePad.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\PlayStation5_Demo.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfLogin.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\List.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\NotePad.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\PlayStation5_Demo.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfLogin.baml
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\WPF-COpy\Wpf\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\bin\Debug\PS5.mp4
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\List.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\NotePad.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\PlayStation5_Demo.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\UserControl1.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfLogin.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\List.baml
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\NotePad.baml
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\PlayStation5_Demo.baml
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\UserControl1.baml
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfLogin.baml
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ghane\OneDrive\Desktop\MY ALL STUFF\Stuff\2nd-Semester-Done\WPF-SAE\Wpf\WpfApp1\obj\Debug\WpfApp1.pdb

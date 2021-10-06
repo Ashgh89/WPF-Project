@@ -1,0 +1,40 @@
+﻿<Window x:Class="WpfApp1.PlayStation5_Demo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="PlayStation5_Demo" Height="450" Width="800">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <MediaElement Source="PS5.mp4" Stretch="Fill"
+                      LoadedBehavior="Manual"
+                      Name="mediaPlayer"/>
+        <StackPanel Grid.Row="1">
+            <Label Name="labelStatus"
+                   Content="PRESS PLAY BUTTON"
+                   Foreground="DodgerBlue"
+                   HorizontalContentAlignment="Left"
+                   Margin="5"/>
+            <WrapPanel HorizontalAlignment="Left">
+                <Button Name="btnPlay"
+                        Padding="15,5"
+                        Background="SteelBlue"
+                        Click="btnPlay_Click">play</Button>
+                <Button Name="btnPause"
+                        Padding="15,5"
+                        Background="SteelBlue"
+                        Click="btnPause_Click">Pause</Button>
+                <Button Name="btnStop"
+                        Padding="15,5"
+                        Background="SteelBlue"
+                        Click="btnStop_Click" RenderTransformOrigin="2.388,1.017">Stop</Button>
+                        
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>

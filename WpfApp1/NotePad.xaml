@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp1.NotePad"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="NotePad" Height="650" Width="800" ResizeMode="NoResize">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Click="New_Click" />
+                <MenuItem Header="_Open" Click="Open_Click" />
+                <MenuItem Header="_Save" Click="Save_Click" />
+                <Separator />
+                <MenuItem Name="myExit" Header="E_xit" Click="myExit_Click"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock Name="lblStatusBar" />
+            </StatusBarItem>
+        </StatusBar>
+        <TextBox Name="tbText" AcceptsReturn="True" FontSize="35" Margin="20" Height="454" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="744">
+            <TextBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Copy" Name="myCopy" Click="Copy_Click" />
+                    <MenuItem Header="Paste" Name="myPaste" Click="Paste_Click" />
+                    <MenuItem Header="Clear" Name="myClear" Click="Clear_Click" />
+                </ContextMenu>
+            </TextBox.ContextMenu>
+        </TextBox>
+    </DockPanel>
+</Window>
+

@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApp1.List"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="List" Height="450" Width="800" Background="LightSkyBlue" ResizeMode="NoResize">
+    <StackPanel>
+        <TextBlock Margin="40,40,507.6,40" Foreground="Blue" FontSize="30" FontWeight="Bold">
+            Play With Colors
+        </TextBlock>
+        <Button Content="Play" Click="btnColor" Foreground="Black" Background="Gray" Margin="363,-120,89.6,-10" Height="41"/>
+
+        <TextBlock Margin="40" Foreground="Green" FontSize="30" FontWeight="Bold">
+            PlayStation 5 Demo
+        </TextBlock>
+        <Button Content="Watch it!" Click="btnPs" Foreground="Black" Background="Gray" Margin="363,-75,89.6,40" Height="41"/>
+
+        <TextBlock Margin="40" Foreground="Red" FontSize="30" FontWeight="Bold">
+            Notpad <Italic>(Save/Load/Exit/Copy/Paste/Clear)</Italic>
+        </TextBlock>
+        <Button Content="Start" Click="btnStart" Foreground="Black" Background="Gray" Height="41" Margin="363,-19,89.6,0"/>
+    </StackPanel>
+</Window>
+
+
+
